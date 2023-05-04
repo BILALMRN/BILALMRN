@@ -2,18 +2,20 @@
 <h1 align="center">Hi there, I'm BILAL</h1>
 
 <h3> About me : </h3>
-    - 👋 Hi, I’m BILAL MARIN
+     - 👋 Hi, I’m BILAL MARIN
 </br>
-    - 👀 I’m interested in GUI
+     - 👀 I’m interested in GUI
 </br>
-    - 🌱 I’m currently learning GUI/C++
+     - 🌱 I’m currently learning GUI/C++
 </br>
 
 <h3> 📊 GitHub Stats: </h3>
 </br></br>
 <div align="center">
 
-![ok](https://github-readme-streak-stats.herokuapp.com/?user=BILALMRN&theme=dark&hide_border=false) ![BILAL github stats](https://github-readme-stats.vercel.app/api?username=BILALMRN&theme=tokyonight&show_icons=true&hide=["issues"]) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILALMRN&theme=tokyonight&layout=compact)
+![ok](https://github-readme-streak-stats.herokuapp.com/?user=BILALMRN&theme=dark&hide_border=false) ![BILAL github stats](https://github-readme-stats.vercel.app/api?username=BILALMRN&theme=tokyonight&show_icons=true&hide=["issues"])
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILALMRN&theme=tokyonight&layout=compact)
 
 </div>
 <!--- 
