@@ -13,9 +13,10 @@
 </br></br>
 <div align="center">
 
-![ok](https://github-readme-streak-stats.herokuapp.com/?user=BILALMRN&theme=dark&hide_border=false)     ![BILAL github stats](https://github-readme-stats.vercel.app/api?username=BILALMRN&theme=tokyonight&show_icons=true&hide=["issues"])    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILALMRN&theme=tokyonight&layout=compact)
+![ok](https://github-readme-streak-stats.herokuapp.com/?user=BILALMRN&theme=dark&hide_border=false) ![BILAL github stats](https://github-readme-stats.vercel.app/api?username=BILALMRN&theme=tokyonight&show_icons=true&hide=["issues"]) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILALMRN&theme=tokyonight&layout=compact)
 
 </div>
+<!--- 
 </br></br>
 <h3> 🏆 GitHub Trophies </h3>
 </br></br>
@@ -24,6 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=BILALMRN&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+--->
 </br></br>
 <h3> ✍️ Random Dev Quote </h3> 
 </br></br>
