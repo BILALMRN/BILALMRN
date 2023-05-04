@@ -2,22 +2,33 @@
 <h1 align="center">Hi there, I'm BILAL</h1>
 
 <h3> About me : </h3>
-- 👋 Hi, I’m BILAL MARIN
-- 👀 I’m interested in GUI
-- 🌱 I’m currently learning GUI/C++
+    - 👋 Hi, I’m BILAL MARIN
+</br>
+    - 👀 I’m interested in GUI
+</br>
+    - 🌱 I’m currently learning GUI/C++
+</br>
+
 # 📊 GitHub Stats:
+
 ![BILAL github stats](https://github-readme-stats.vercel.app/api?username=BILALMRN&theme=tokyonight&show_icons=true&hide=["issues"])
-![](https://github-readme-streak-stats.herokuapp.com/?user=BILALMRN&theme=dark&hide_border=false)
+
+![ok](https://github-readme-streak-stats.herokuapp.com/?user=BILALMRN&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILALMRN&theme=tokyonight&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=BILALMRN&theme=monokai&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=project_AppGistionSalarie_Cpp"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zluvsand&repo=project_AppGistionSalarie_Cpp"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🏆 PROJECT
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BILALMRN&repo=project_AppGistionSalarie_Cpp"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BILALMRN&theme=tokyonight&repo=project_AppGistionSalarie_Cpp" />
+
 
 <!---
 
