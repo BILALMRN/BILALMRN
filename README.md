@@ -41,7 +41,7 @@
 </br></br>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BILALMRN&theme=tokyonight&repo=RGB_CreateColor_vb.net" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=BILALMRN&theme=tokyonight&repo=RGB_CreateColor_winForm" />
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=BILALMRN&theme=tokyonight&repo=project_AppGistionSalarie_Cpp" />
 
