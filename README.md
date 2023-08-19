@@ -6,7 +6,7 @@
 </br>
      - 👀 I’m interested in GUI
 </br>
-     - 🌱 I’m currently learning GUI/C++
+     - 🌱 I’m currently learning GUI
 </br>
 
 <h3> 📊 GitHub Stats: </h3>
