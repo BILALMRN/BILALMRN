@@ -37,6 +37,7 @@
 
 </div>
 </br></br>
+<!---
 <h3> 🏆 PROJECT </h3>
 </br></br>
 <div align="center">
@@ -47,7 +48,7 @@
 
 </div>
 
-<!---
+
 
 <a href=#><img src="bilal.svg"></a>
 - 👋 Hi, I’m @BILALMRN
