@@ -14,11 +14,12 @@
 <div align="center">
 
 ![ok](https://github-readme-streak-stats.herokuapp.com/?user=BILALMRN&theme=dark&hide_border=false) ![BILAL github stats](https://github-readme-stats.vercel.app/api?username=BILALMRN&theme=tokyonight&show_icons=true&hide=["issues"])
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILALMRN&theme=tokyonight&layout=compact)
-
 </div>
 <!--- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BILALMRN&theme=tokyonight&layout=compact)
+
+
+
 </br></br>
 <h3> 🏆 GitHub Trophies </h3>
 </br></br>
