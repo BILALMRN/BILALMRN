@@ -4,10 +4,7 @@
 <h3> About me : </h3>
      - 👋 Hi, I’m BILAL MARIN
 </br>
-     - 👀 I’m interested in GUI
-</br>
-     - 🌱 I’m currently learning GUI
-</br>
+     - 👀 I’m Software Engineer
 
 <h3> 📊 GitHub Stats: </h3>
 </br></br>
